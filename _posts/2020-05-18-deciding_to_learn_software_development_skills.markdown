@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deciding to Learn Software Development Skills"
-date:       2020-05-18 13:27:23 +0000
+date:       2020-05-18 09:27:23 -0400
 permalink:  deciding_to_learn_software_development_skills
 ---
 
