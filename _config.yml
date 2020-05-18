@@ -1,11 +1,11 @@
 # Site settings
 author: Lluvia Frias
-title: 
+title: The Journey of an Onlline Student
 header-img: img/home-bg.png
 email: lluvi.frias@gmail.com
 copyright_name: Lluvia Frias
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Sum of All Choices Made
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ninjaturtle3
