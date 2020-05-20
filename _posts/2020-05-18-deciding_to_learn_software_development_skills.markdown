@@ -23,4 +23,4 @@ My coding experience has been brief and this will probably, *hopefully*, change 
 Wishing everyone on this great journey great luck and perseverance. 
 
 
-The content of your blog post goes here.
+
